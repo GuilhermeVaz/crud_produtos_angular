@@ -1,0 +1,18 @@
+.sidenav {
+  background-color: rgb(124, 203, 124);
+  width: 200px;
+}
+
+/*verificar pq n funciona*/
+.sidenav a {
+  color: #fff;
+}
+
+.sidenav i {
+  padding-right: 10px;
+}
+
+.content {
+  padding: 16px;
+  background-color: #fff;
+}
